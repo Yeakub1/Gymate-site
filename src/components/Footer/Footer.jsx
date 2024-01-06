@@ -40,9 +40,9 @@ function Footer() {
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  href="https://www.radiustheme.com/"
+                  href="https://yakub1.web.app/"
                 >
-                  RadiusTheme
+               Yeakub
                 </a>
               </p>
             </div>
